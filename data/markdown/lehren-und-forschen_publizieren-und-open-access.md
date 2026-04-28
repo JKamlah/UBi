@@ -69,7 +69,7 @@ Der Publish and Read Vertrag mit dem Verlag De Gruyter bringt neben dem Zugriff 
 
 - Sie sind zum Zeitpunkt der Annahme mit der Universität Mannheim affiliiert.
 - Sie sind für den Artikel als „corresponding author“ zuständig.
-- Der Artikel wird zwischen dem 1. Januar 2022 und dem 31. Dezember 2025 zur Publikation angenommen.
+- Der Artikel wird zwischen dem 1. Januar 2022 und dem 31. Dezember 2026 zur Publikation angenommen.
 
 **Hybrides Open Access**
 Als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim können Sie in den [Geistes- und Sozialwissenschaftlichen (Humanities and Social Sciences) (PDF)](https://degruyter-live-craftcms-assets.s3.amazonaws.com/DGB_25/Documents/OA-Journals/DE_HSS_journals_list_2025.docx.pdf)[ Zeitschriften (PDF)](https://degruyter-live-craftcms-assets.s3.amazonaws.com/docs/DE_HSS_journalslist2025.pdf) und dem Großteil (Publish & Read) der[ Wirtschaftswissenschaftlichen Zeitschriften  (PDF)](https://degruyter-live-craftcms-assets.s3.amazonaws.com/DGB_25/Documents/OA-Journals/DE_Economics_journals_list_2026.docx.pdf)unter den oben genannten Voraussetzungen ohne weitere Kosten im Open Access veröffentlichen.
@@ -96,7 +96,7 @@ Für Publikationen in reinen Open-Access-Zeitschriften können Sie zusätzlich e
 
 ### Emerald
 
-Im Rahmen des Publish and Read Vertrags mit dem Verlag Emerald können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim ohne weitere Kosten im Open Access sowohl in hybriden als auch in reinen (Gold) Open Access Zeitschriften des Verlags sowie auf der Emerald Open Research Plattform publizieren. Dies gilt, wenn Sie als „corresponding author“ für den Artikel zuständig sind und dieser zwischen dem 1. Januar 2023 und dem 31. Dezember 2025 zur Publikation angenommen wurde.
+Im Rahmen des Publish and Read Vertrags mit dem Verlag Emerald können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim ohne weitere Kosten im Open Access sowohl in hybriden als auch in reinen (Gold) Open Access Zeitschriften des Verlags sowie auf der Emerald Open Research Plattform publizieren. Dies gilt, wenn Sie als „corresponding author“ für den Artikel zuständig sind und dieser zwischen dem 1. Januar 2023 und dem 31. Dezember 2026 zur Publikation angenommen wurde.
 Verwenden Sie beim Einreichungsprozess die E-Mail-Adresse der Universität. Damit werden Sie als berechtigt identifiziert und erhalten einen Voucher für die OA Publikation.
 **Weitere Informationen**
 [Emerald Publishing open access publishing agreements](https://www.emeraldgrouppublishing.com/publish-with-us/publish-open-access/open-access-publishing-agreements)
@@ -161,7 +161,7 @@ Der Publish and Read Vertrag mit dem Verlag SAGE bringt neben dem Zugriff auf SA
 
 - Sie sind zum Zeitpunkt der Annahme mit der Universität Mannheim affiliiert.
 - Sie sind für den Artikel als „corresponding author“ zuständig.
-- Der Artikel wird zwischen dem 1. Januar 2021 und dem 31. Dezember 2025 angenommen.
+- Der Artikel wird zwischen dem 1. Januar 2021 und dem 31. Dezember 2028 angenommen.
 
 **SAGE Choice**
 In hybriden Zeitschriften des Verlags SAGE mit der Option „SAGE Choice“ können Sie als Wissenschaftlerin oder Wissenschaftler der Universität Mannheim unter oben genannten Voraussetzungen ohne weitere Kosten im Open Access veröffentlichen. Der Artikel muss vom TypOriginal Research Papers,Review Papers, Brief Communications, Short ReportsoderCase Reportssein.
