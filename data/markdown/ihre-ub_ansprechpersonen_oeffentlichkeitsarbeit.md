@@ -55,6 +55,13 @@ Abteilung KommunikationUniversitätsbibliothek MannheimUniversität MannheimSchl
 Bitte senden Sie uns, wenn möglich, vorab eine digitale Version der Printmedien zu. Die Entscheidung zur Auslage von Printmedien und zum Aufhängen von Plakaten trifft die Kommunikationsabteilung der Universitätsbibliothek. Eine selbstständige Auslage von Printmedien innerhalb der Bibliotheksbereiche insbesondere auf den Arbeitsplätzen ist grundsätzlich untersagt.
 
 
+### Ausstellungsflächen
+
+Die Universitätsbibliothek Mannheim verfügt über zwei Ausstellungsflächen, die Mitgliedern der Universität im Rahmen von Seminaren oder Kooperationen zur Verfügung stehen. Gerne beraten wir Sie zu den Möglichkeiten, Ausstellungen in den Räumlichkeiten der Universitätsbibliothek umzusetzen.
+**Ausstellungen:**Im Bibliotheksbereich A3 steht eine Ausstellungsfläche mit acht Standvitrinen, drei Tischvitrinen sowie sechs Pinnwänden zur Verfügung. Zusätzlich besteht die Möglichkeit, die Ausstellung über eine Medienstation multimedial zu ergänzen. Diese Fläche eignet sich besonders für mittlere bis große Ausstellungen mit Objekten.
+**Plakatausstellungen:**Im Ausleihzentrum im Schloss-Westflügel befindet sich eine Ausstellungsfläche mit 20 Rahmen im Format A1. Sie eignet sich insbesondere für Plakat- und Posterausstellungen sowie für Kunst- und Fotopräsentationen.
+
+
 ## Kontakt
 
 
